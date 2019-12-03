@@ -6,4 +6,5 @@ new line from command prompt
 Adding line in Branch1
 Testing Branch1
 adding in origin:branch1
+adding 2nd line in origin:branch1
 
