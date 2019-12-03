@@ -4,4 +4,5 @@ Adding line to test Git Pull feature
 new line from command prompt
 4th line
 Adding line in Branch1
+Testing Branch1
 
